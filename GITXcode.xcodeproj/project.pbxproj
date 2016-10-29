@@ -14,6 +14,7 @@
 		738295D31DC51E17008207D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 738295D11DC51E17008207D1 /* LaunchScreen.storyboard */; };
 		738295DE1DC51E17008207D1 /* GITXcodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738295DD1DC51E17008207D1 /* GITXcodeTests.swift */; };
 		738295E91DC51E17008207D1 /* GITXcodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738295E81DC51E17008207D1 /* GITXcodeUITests.swift */; };
+		738295F71DC53B9F008207D1 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 738295F61DC53B9F008207D1 /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		738295E41DC51E17008207D1 /* GITXcodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GITXcodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		738295E81DC51E17008207D1 /* GITXcodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GITXcodeUITests.swift; sourceTree = "<group>"; };
 		738295EA1DC51E17008207D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		738295F61DC53B9F008207D1 /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				738295C81DC51E17008207D1 /* AppDelegate.swift */,
 				738295CA1DC51E17008207D1 /* ViewController.swift */,
 				738295CC1DC51E17008207D1 /* Main.storyboard */,
+				738295F61DC53B9F008207D1 /* MapViewController.swift */,
 				738295CF1DC51E17008207D1 /* Assets.xcassets */,
 				738295D11DC51E17008207D1 /* LaunchScreen.storyboard */,
 				738295D41DC51E17008207D1 /* Info.plist */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				738295CB1DC51E17008207D1 /* ViewController.swift in Sources */,
+				738295F71DC53B9F008207D1 /* MapViewController.swift in Sources */,
 				738295C91DC51E17008207D1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
